@@ -4,7 +4,7 @@ who hire , lease or buy any kind of flats which will reduce
 manual work and help the dealer to save the records efficiently.
 This project is aimed at developing a flat dealing software. We
 are managing the records of buyers by the help of data
-structures. We are using linked lists so that the same type of
+structures. We are using LINKED LISTS so that the same type of
 flats are grouped together. We have designed the software like that the dealer
 gets the details of all buyers sorted in whichever condition he
 may require , for eg. – Buyers who want 2 bhk flat , or buyers
