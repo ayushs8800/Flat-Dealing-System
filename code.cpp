@@ -154,7 +154,7 @@ void flat::main_menu()
                     break;
             }
             password[i] = '\0';
-            if ((strcmp(password, "031929")) == 0)
+            if ((strcmp(password, "1234")) == 0)
             {
                 cout << "\n\nPassword matched :-) ";
                 cout << "\n\n\tWHAT DO YOU WANT SIR ? " << endl
@@ -588,8 +588,8 @@ int main()
     cout << "\n\t\t\t* FLAT DEALING PROJECT *";
     cout << "\n\t\t\t**";
     cout << "\n\n\n\n\t\tMade By:";
-    cout << "\n\t\t Gaurav Saini - 2k19/SE/044 ";
-    cout << "\n\t\t Krish Saini - 2k19/SE/063 ";
+    cout << "\n\t\t Ayush Sharma - 2k20/MC/034 ";
+    cout << "\n\t\t Bhavey Arya - 2k20/MC/036 ";
     cout << "\n\n\n\n\n\t\t\t\tPress any key to continue!!";
     getch();
     f.main_menu();
