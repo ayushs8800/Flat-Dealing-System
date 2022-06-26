@@ -1,4 +1,4 @@
-# Flat-Dealing-Syustem
+# Flat-Dealing-System
 This project is designed to save the data of all those customers
 who hire , lease or buy any kind of flats which will reduce
 manual work and help the dealer to save the records efficiently.
